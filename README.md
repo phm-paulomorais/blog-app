@@ -37,6 +37,8 @@ Solução:
  - Fazer o ajuste no arquivo comments_controller.rb:
 
 	@comment = @post.comments.create!(params[:comment].permit!)
+	
+	Referência da solução: https://stackoverflow.com/questions/19861067/activemodelforbiddenattributeserror-in-commentscontrollercreate
 
 Problema: Não suportado mais o div_for
 
