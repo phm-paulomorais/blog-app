@@ -41,6 +41,7 @@ Solução:
 Problema: Não suportado mais o div_for
 
 Solução: 
+
 	Adicionar no arquivo GemFile a seguinte instrução: gem 'record_tag_helper', '~> 1.0'
 
 
