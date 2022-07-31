@@ -30,7 +30,7 @@ https://reinteractive.com/posts/32-ruby-on-rails-3-2-blog-in-15-minutes-step-by-
 
 Erros encontrados:
 
-<img alt="Erro" title="Erro" src="erro-app-blog.png" width="400px" />
+<img alt="Erro" title="Erro" src="erro-app-blog.png" width="800px" />
 
 Solução:
 
