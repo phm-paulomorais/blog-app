@@ -5,8 +5,9 @@ application up and running.
 
 Things you may want to cover:
 
-Rails version: 5.2.8.1
-Ruby version: 2.7.0 (x86_64-linux)
+* Rails version: 5.2.8.1
+
+* Ruby version: 2.7.0 (x86_64-linux)
 
 * System dependencies
 
