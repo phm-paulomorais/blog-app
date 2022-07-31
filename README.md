@@ -24,6 +24,8 @@ Things you may want to cover:
 * ...
 # blog-app
 
+Vídeo da Aplicação: https://www.loom.com/share/1a305f33345c4433917d43d8043aa1e5
+
 Link de referência: 
 
 https://reinteractive.com/posts/32-ruby-on-rails-3-2-blog-in-15-minutes-step-by-step
